@@ -9,7 +9,7 @@ const Heropage = () => {
         <Header />
       </section>
       <section className="heroText">
-        <h1>We are Creative</h1>
+        <h1>We are Creative Sammy Vercel</h1>
       </section>
       <section className="arrowSection">
         <img src={Arrow} alt="" />
